@@ -1,0 +1,24 @@
+<svg width="48px" height="48px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.991" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffd0"/>
+      <stop offset="1" stop-color="#0b9d71"/>
+    </linearGradient>
+    <clipPath id="clip-Stat">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Stat" clip-path="url(#clip-Stat)">
+    <rect width="48" height="48" fill="rgba(255,255,255,0)"/>
+    <g id="Stat-2" data-name="Stat" transform="translate(7 7)">
+      <g id="Icon" transform="translate(0)" stroke-miterlimit="10" fill="url(#linear-gradient)">
+        <path d="M14,0a13.944,13.944,0,0,1,6.11,1.4C20,1.5,14,14,14,14H0A14,14,0,0,1,14,0Z" stroke="none"/>
+        <path d="M 14.00000190734863 0.5 C 10.39402294158936 0.5 7.003872871398926 1.904239654541016 4.454062461853027 4.454059600830078 C 2.022365570068359 6.885748386383057 0.6325778961181641 10.08141803741455 0.5090293884277344 13.5 L 13.68543243408203 13.5 C 14.08920860290527 12.65925025939941 15.32831478118896 10.08022975921631 16.56349182128906 7.520259857177734 C 18.30623817443848 3.9083251953125 19.07124710083008 2.336273193359375 19.42641258239746 1.634542465209961 C 17.71592330932617 0.8813695907592773 15.89310073852539 0.5 14.00000190734863 0.5 M 14.00000190734863 0 C 16.19078254699707 0 18.26404190063477 0.5032100677490234 20.11048316955566 1.40034008026123 C 20.00000190734863 1.5 14.00000190734863 14 14.00000190734863 14 C 14.00000190734863 14 14.00000190734863 14 1.9073486328125e-06 14 C 1.9073486328125e-06 6.268010139465332 6.268013000488281 0 14.00000190734863 0 Z" stroke="none" fill="rgba(255,255,255,0.3)"/>
+      </g>
+      <g id="Icon-2" data-name="Icon" transform="translate(3 4)" fill="rgba(71,244,154,0.3)" stroke="rgba(255,255,255,0.3)" stroke-miterlimit="10" stroke-width="0.5">
+        <rect width="28" height="28" rx="14" stroke="none"/>
+        <rect x="0.25" y="0.25" width="27.5" height="27.5" rx="13.75" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

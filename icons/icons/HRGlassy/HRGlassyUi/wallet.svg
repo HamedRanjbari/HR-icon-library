@@ -1,0 +1,29 @@
+<svg width="48px" height="48px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ff3f"/>
+      <stop offset="1" stop-color="#00b349"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#6eff79" stop-opacity="0.161"/>
+      <stop offset="1" stop-color="#14e11b" stop-opacity="0.161"/>
+    </linearGradient>
+    <clipPath id="clip-Wallet">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Wallet" clip-path="url(#clip-Wallet)">
+    <rect width="48" height="48" fill="rgba(255,255,255,0)"/>
+    <g id="Wallet-2" data-name="Wallet" transform="translate(5 6.588)">
+      <g id="Icon" transform="translate(0.658 10.673) rotate(-20)" stroke="rgba(255,255,255,0.3)" stroke-miterlimit="10" stroke-width="0.5" fill="url(#linear-gradient)">
+        <rect width="30" height="18" rx="4" stroke="none"/>
+        <rect x="0.25" y="0.25" width="29.5" height="17.5" rx="3.75" fill="none"/>
+      </g>
+      <g id="Icon-2" data-name="Icon" transform="translate(1 9.412)" stroke="rgba(255,255,255,0.3)" stroke-miterlimit="10" stroke-width="0.5" fill="url(#linear-gradient-2)">
+        <rect width="36" height="24" rx="4" stroke="none"/>
+        <rect x="0.25" y="0.25" width="35.5" height="23.5" rx="3.75" fill="none"/>
+      </g>
+      <rect id="Icon-3" data-name="Icon" width="12" height="3" rx="1.5" transform="translate(7 24.412)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
